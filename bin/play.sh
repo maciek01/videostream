@@ -1,4 +1,4 @@
 
 
-ffplay rtmp://home.kolesnik.org/show/stream
+ffplay rtmp://home.kolesnik.org/hls/stream
 
