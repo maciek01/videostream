@@ -26,3 +26,5 @@ https://packages.debian.org/sid/libnginx-mod-rtmp
 
 https://docs.peer5.com/guides/setting-up-hls-live-streaming-server-using-nginx/
 
+https://isrv.pw/html5-live-streaming-with-mpeg-dash
+
