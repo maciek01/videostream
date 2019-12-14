@@ -2,6 +2,12 @@
 
 Idea behind this setup is to livestream video from Raspberry PI ZERO on board drone connected via LTE modem to ngnix rtmp server running on Raspberry Pi 3 B hardwired to internet
 
+tar xvzf nginix-build.tgz
+cd nginix-build/nginx-1.16.1
+sudo make install
+
+link /usr/local/nginx content to nginx version
+
 
 reference info
 
