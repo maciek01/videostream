@@ -1,5 +1,8 @@
 # videostream
 
+Idea behind this setup is to livestream video from Raspberry PI ZERO on board drone connected via LTE modem to ngnix rtmp server running on Raspberry Pi 3 B hardwired to internet
+
+
 reference info
 
 https://github.com/arut/nginx-rtmp-module/wiki/Getting-started-with-nginx-rtmp
